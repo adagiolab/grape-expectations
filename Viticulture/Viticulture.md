@@ -26,7 +26,7 @@ Water availability and management are critical for successful viticulture. Grape
 ## Sunlight
 Sunlight is essential for photosynthesis, the process by which plants convert light energy into chemical energy to fuel growth. Grapevines require sufficient sunlight exposure to produce sugars through photosynthesis, which contributes to fruit ripening and flavor development. However, excessive heat and sunlight exposure can lead to sunburn and other vineyard challenges.
 
-## Disease and Pests
+## Diseases and Pests
 Various diseases, such as powdery mildew, downy mildew, and botrytis, as well as pests like grapevine moths and aphids, can pose significant threats to vine health and grape quality. Integrated pest management (IPM) strategies, including cultural, biological, and chemical control methods, are employed to mitigate these risks.
 
 ## Cultural Practices
